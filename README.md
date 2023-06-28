@@ -11,8 +11,6 @@ python -c "$(wget https://raw.githubusercontent.com/SaberArnane/enigma-channel
 
 ### ✔️ NOTE Installation
 
-### ✔️ NOTE Installation
-
 ** You Use Space Between Numbers To Select Multi Install 💕**
 
 ### ✔️ Default Plugin
