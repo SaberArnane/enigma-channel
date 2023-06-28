@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# code: BY MOHAMED_OS
+# code: BY SaberArnane
 
 from __future__ import print_function
 
@@ -27,7 +27,8 @@ G = "\033[0;32m"  # green (process)
 B = "\033[0;36m"  # blue (choice)
 Y = "\033[0;33m"  # yellow (info)
 
-URL = 'https://raw.githubusercontent.com/SaberArnane/e2script/main/'
+URL = 'https://raw.githubusercontent.com/SaberArnane/enigma-channel
+/main/'
 
 if hasattr(__builtins__, 'raw_input'):
     input = raw_input
