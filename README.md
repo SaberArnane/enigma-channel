@@ -5,7 +5,7 @@
 
 ```fish
 python -c "$(wget [https://raw.githubusercontent.com/SaberArnane/enigma-channel
-/main/enigma-channel](https://github.com/SaberArnane/enigma-channel/blob/main/channels_backup_OpenPLI_20230617_203101.tar.gz)
+/main/enigma-channel]
 .py -qO -)"
 ```
 
