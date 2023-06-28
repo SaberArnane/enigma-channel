@@ -1,0 +1,31 @@
+{
+    "version": "2.3",
+    "package": [
+        "wget",
+        "curl",
+        "astra-sm",
+        "dvbsnoop",
+        "ffmpeg",
+        "duktape",
+        "gstplayer",
+        "exteplayer3",
+        "enigma2-plugin-systemplugins-serviceapp",
+        "enigma2-plugin-extensions-epgimport",
+        "gstreamer1.0-plugins-good",
+        "gstreamer1.0-plugins-base",
+        "gstreamer1.0-plugins-ugly",
+        "libgstplayer-1.0-0",
+        "python-beautifulsoup4",
+        "python-requests",
+        "python-sqlite3",
+        "python-codecs",
+        "python-core",
+        "python-json",
+        "python-netclient",
+        "python-image"
+    ],
+    "plugins": {
+	   "channel": "wget https://raw.githubusercontent.com/SaberArnane/Download/main/Channel/installer.py -qO - | python",
+
+    }
+}
