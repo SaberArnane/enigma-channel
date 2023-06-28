@@ -4,7 +4,8 @@
 ### ✔️ Installation
 
 ```fish
-python -c "$(wget https://raw.githubusercontent.com/SaberArnane/e2script/main/enigma-channel
+python -c "$(wget https://raw.githubusercontent.com/SaberArnane/enigma-channel
+/main/enigma-channel
 .py -qO -)"
 ```
 
