@@ -9,3 +9,11 @@ python -c "$(wget https://raw.githubusercontent.com/SaberArnane/e2script/main/en
 ```
 
 ### ✔️ NOTE Installation
+
+** You Use `,` To Select Multi Install 💕**
+
+<p align="center">
+  <b>Please consider 🤗 giving this project a star ⭐ if you liked it</b>
+</p>
+
+## 📸 Preview
